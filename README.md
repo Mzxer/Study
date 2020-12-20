@@ -42,8 +42,10 @@
 
 ## ℹ️ 资源合集
 
-github 图片：https://shields.io/
-早先记录：<https://github.com/Mzxer/Study/wiki>
+* tag 图标：https://shields.io/
+* emoji 大全： https://emojipedia.org/
+
+*早先记录：<https://github.com/Mzxer/Study/wiki>
 
 
 
