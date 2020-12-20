@@ -45,7 +45,7 @@
 * tag 图标：https://shields.io/
 * emoji 大全： https://emojipedia.org/
 
-*早先记录：<https://github.com/Mzxer/Study/wiki>
+* 早先记录：<https://github.com/Mzxer/Study/wiki>
 
 
 
