@@ -1,4 +1,8 @@
-# Mzxer 的学习记录
+
+
+# Mzxer 的博客
+
+
 
 ## 学习仓库的说明
 
@@ -10,6 +14,16 @@
    * 该库目前只当做自己的学习总结，应该比较少人能看到。如果有读者碰巧进来之后发现文章有问题，或者什么不理解的地方都可以通过提 issue 来讨论。当然我也不确定能否及时回复哈。
 4. 启发： [bestswifter](https://github.com/bestswifter/blog)
  
+<p align='left'>
+<img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
+<img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
+<img src="https://img.shields.io/badge/language-python-yellowgreen.svg">
+<img src="https://img.shields.io/badge/language-shell-green.svg">
+<a href=""><img src="https://img.shields.io/badge/license-CC-000000.svg"></a>
+<img src="https://img.shields.io/badge/blog-Mzxer-blue.svg">
+</p>
+
+
 
 ##  iOS & OS X
 ### 知识积累。
