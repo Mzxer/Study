@@ -2,7 +2,9 @@
 
 # Mzxer 的博客
 
-
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/16986533/120056835-4bc57000-c071-11eb-9cbc-3ec2ed732781.png'>
+</p>
 
 ## 学习仓库的说明
 
